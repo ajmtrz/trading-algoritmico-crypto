@@ -1,28 +1,23 @@
-# Advanced-crypto-strategies-for-Algorithmic-tradinhg-2022
+# Estrategias Avanzadas de Trading Algorítmico aplicadas al mundo Crypto 2022
 
-🇬🇧 https://www.udemy.com/course/advanced-crypto-strategies-for-algorithmic-trading-2022/?referralCode=B6F3F85994FDAB997296
+🇪🇸 Puedes apuntarte en nuestro curso en: https://cursos.frogamesformacion.com/courses/trading-algoritmico-8
+
+O obtener la Ruta completa de trading algorítmico en: https://cursos.frogamesformacion.com/bundles/ruta-trading 
+
+### Recursos
+
+💰 Únete a la comunidad de Discord: https://discord.gg/wXjNPAc5BH
+
+📚 Puedes leer nuestro libro en: https://www.amazon.com/gp/product/B09HG18CYL 
+
+🖥️ El canal de YouTube de Quantreo's (en inglés): https://www.youtube.com/channel/UCp7jckfiEglNf_Gj62VR0pw
 
 
-<br>
-🇫🇷 https://www.udemy.com/course/strategies-crypto-pour-le-trading-algorithmique-2022/?referralCode=103FDF031D59A06DE775
 
-<br>
-<br>
+### VPS / Instalar Windows en tu Mac
 
-### Ressources
-
-💰 Join our community: https://discord.gg/wXjNPAc5BH
-
-📚Read our book: https://www.amazon.com/gp/product/B09HG18CYL 
-
-🖥️Quantreo's YouTube channel: https://www.youtube.com/channel/UCp7jckfiEglNf_Gj62VR0pw
-
-<br>
-
-### VPS / Install Windows in your mac
-
-VPS: https://billing.virmach.com/aff.php?aff=10381
+VPS: https://billing.virmach.com/aff.php?aff=10561
 
 BOOT CAMP MAC: https://www.youtube.com/watch?v=Hmm9Q-T0oTo
 
-Parrallels Desktop: https://www.parallels.com/fr/
+Parallels Desktop: https://www.parallels.com/
