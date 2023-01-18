@@ -1,4 +1,4 @@
-# Estrategias Avanzadas de Trading Algorítmico aplicadas al mundo Crypto 2022
+# Estrategias Avanzadas de Trading Algorítmico aplicadas al mundo Crypto 2023
 
 🇪🇸 Puedes apuntarte en nuestro curso en: https://cursos.frogamesformacion.com/courses/trading-algoritmico-8
 
